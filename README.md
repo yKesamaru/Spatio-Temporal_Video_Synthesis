@@ -18,9 +18,9 @@
 
 
 - 入力映像（51秒間）: ほとんどの時間何も映らない
-  ![入力映像（51秒間）](assets/input_video1.gif)
+  ![入力映像（51秒間）](https://github.com/yKesamaru/Spatio-Temporal_Video_Synthesis/blob/master/assets/input_video1.gif?raw=true)
 - 出力映像（5秒間）
-  ![出力映像（10秒間）](assets/output_video1.gif)
+  ![出力映像（10秒間）](https://github.com/yKesamaru/Spatio-Temporal_Video_Synthesis/blob/master/assets/output_video1.gif?raw=true)
 
 
 映像元: [【ビルの防犯カメラ】ビル入退室監視SJC-HRA1500T｜セキュアジャパン](https://www.youtube.com/shorts/-qjtqz6SJCE)
@@ -505,9 +505,9 @@ if __name__ == "__main__":
 帯域幅、保存容量を削減するため監視カメラは通常飛び飛びの映像を送ってきます。この場合、DeepSORTの処理が大変難しくなります。
 
 - 入力映像（60秒間）
-  ![入力映像（60秒間）](assets/input_video.gif)
+  ![入力映像（60秒間）](https://github.com/yKesamaru/Spatio-Temporal_Video_Synthesis/blob/master/assets/input_video.gif?raw=true)
 - 出力映像（10秒間）
-  ![出力映像（10秒間）](assets/output_video.gif)
+  ![出力映像（10秒間）](https://github.com/yKesamaru/Spatio-Temporal_Video_Synthesis/blob/master/assets/output_video.gif?raw=true)
 
 ## さいごに
 この記事では監視カメラの長時間記録から人物だけをまとめて短時間記録に圧縮する実装を行いました。
@@ -528,7 +528,6 @@ if __name__ == "__main__":
 - [人物抽出のためのコード比較その③: Deep OC-SORT](https://zenn.dev/ykesamaru/articles/36ff6507616e9b)
 - [人物抽出のためのコード比較その④: DBSCAN, SSD](https://zenn.dev/ykesamaru/articles/4084a7074f3fe2)
 - [人物抽出のためのコード比較その④-2: GPUを使ったSSD](https://zenn.dev/ykesamaru/articles/19254239bd3a6a)
-- 
 
 
 
